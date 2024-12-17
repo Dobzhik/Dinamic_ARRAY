@@ -1,1 +1,3 @@
-# Dinamic_ARRAY
+# DynamicArray
+Динамические массивы. Практическая
+.
